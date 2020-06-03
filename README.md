@@ -26,10 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) project to be used as base for [Fastify](https://github.com/fastify/fastify) benchmask [Link](https://github.com/fastify/benchmarks)
-
-[Fastify](https://github.com/fastify/fastify)
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) project to be used as base for [Fastify](https://github.com/fastify/fastify) benchmask - [link](https://github.com/fastify/benchmarks)
 
 # Benchmarks
 * __Machine:__ MacBook Pro | Quad-Core Intel Core i7 | 2.8Ghz | 4 CPUs | 16GB.
